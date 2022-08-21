@@ -1,7 +1,12 @@
 # Class 01
 
 ## Components : 
-_The primary objective of component-based architecture is to ensure component reusability. A component encapsulates functionality and behaviors of a software element into a reusable and self-deployable binary unit._  [learn more ](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) 
+_The primary objective of component-based architecture is to ensure component reusability. A component encapsulates functionality and behaviors of a software element into a reusable and self-deployable binary unit.
+Component-oriented software design has many advantages over the traditional object-oriented approaches such as "_
+
+- _Reduced time in market and the development cost by reusing existing components._
+
+- _Increased reliability with the reuse of the existing components._  [learn more ](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) 
 <br>
 ### 1- What is a “component”?
    A component is a modular, portable, replaceable, and reusable,A component is a software object,A component can have three different views :
