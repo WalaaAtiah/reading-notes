@@ -39,6 +39,12 @@ _This website is all about keeping track of my notes and questions from reading 
 <br> 
 
 * ## Code 301 - Intermediate Software Development
+ | date              |     class number|     file link                   |
+| :---               |    :----:       |     ---                         |  
+| 21-8-2022          |   class 01      |[class 01 ](./class01/class01.md)|
+| 22-8-2022          |  class 02       |[class 02 ](./class02/class02.md)|   
+|                    |                 |                                 |
+
 
 <br>
 <br> 
