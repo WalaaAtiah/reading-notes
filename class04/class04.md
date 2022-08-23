@@ -30,4 +30,4 @@ console.log(x===y?true:false)
 
 ## Things I want to know more about
 
-I did not understand the purpose of React and Forms
+how we cane use form in react app
