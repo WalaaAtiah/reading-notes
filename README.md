@@ -44,6 +44,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 21-8-2022          |   class 01      |[class 01 ](./class01/class01.md)|
 | 22-8-2022          |  class 02       |[class 02 ](./class02/class02.md)|   
 | 23-8-2022          |  class 03      |[class 03 ](./class03/class03.md) |
+| 24-8-2022          |  class 04      |[class 04 ](./class04/class04.md)|
 
 
 <br>
