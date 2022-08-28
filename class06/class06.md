@@ -1,6 +1,6 @@
  # Class 06
 
-# NODE.JS:
+## NODE.JS:
 
 ## An Introduction to Node.js on sitepoint.com - Thinking in React  [source  ](https://www.sitepoint.com/an-introduction-to-node-js/) 
 <br>
@@ -31,8 +31,13 @@ npm install -g jshint
 <br>
 <img src="read06.png" alt="Italian Trulli">
 
+<br>
+<br>
+<br>
+
 ## 6 Reasons for Pair Programming : [source  ](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
+<br>
 
 ### 1- What are the 6 reasons for pair programming?
   1. Greater efficiency
