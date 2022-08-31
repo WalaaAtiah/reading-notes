@@ -49,6 +49,8 @@ _This website is all about keeping track of my notes and questions from reading 
 | 28-8-2022          |  class 06       |[class 06 ](./class06/class06.md) |
 | 29-8-2022          |  class 07       |[class 07 ](./class07/class07.md) |
 | 30-8-2022          |  class 08       |[class 08 ](./class08/class08.md) |
+| 31-8-2022          |  class 09       |[class 09 ](./class09/class09.md )|
+| 1-9 -2022          |  class 10       |[class 10 ](./class10/class10.md) |
 
 
 
