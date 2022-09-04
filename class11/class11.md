@@ -1,8 +1,7 @@
 # Class 11
 
 ## Mongo and Mongoose:
-_the componintes in react difined by function or class 
-lifecycle event is method can be called during the lifecycle of the components and allow you to update the UIand application states ._
+_
 
 ## nosql vs sql [source  ](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool) 
 
