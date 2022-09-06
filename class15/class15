@@ -1,0 +1,61 @@
+# Class 15
+
+## Authentication
+
+
+## What is OAuth [source  ](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
+**OAuth allows websites and services to share assets among users. It is widely accepted, but be aware of its vulnerabilities.**
+<br>
+
+### 1- What is OAuth?
+OAuth is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial.
+
+### 2- Give an example of what using OAuth would look like.
+The simplest example of OAuth is when you go to log onto a website and it offers one or more opportunities to log on using another website’s/service’s logon. You then click on the button linked to the other website, the other website authenticates you, and the website you were originally connecting to logs you on itself afterward using permission gained from the second website.
+
+
+ ### 3 How does OAuth work? What are the steps that it takes to authenticate the user?
+1- The first site gives this token and secret to the initiating user’s client software.
+2- The client’s software presents the request token and secret to their authorization provider (which may or may not be the second site).
+3- If not already authenticated to the authorization provider, the client may be asked to authenticate. After authentication, the client is asked to approve the authorization transaction to the second website.
+### 4 What is OpenID?
+way of identifying yourself no matter which web site you visit.
+<br>
+
+
+## Authorization and Authentication flows [source  ](https://auth0.com/docs/get-started/authentication-and-authorization-flow)
+
+<br>
+
+### 1- What is the difference between authorization and authentication?
+* Authorization is the act of permitting or allowing something or someone while authentication is the act to prove that something is genuine.
+* Authorization comes first while authentication comes after authorization.
+
+### 2- What is Authorization Code Flow?
+- which exchanges an Authorization Code for a token.
+- Authorization Code flow involves a two-step process, where the user validates himself against the authorization server by providing his own identity credentials. The Authorization Server validates the user credentials and provides with an Authorization Code.
+
+ ### 3- What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
+
+have additional security,OAuth 2.0 provides a version of the Authorization Code Flow which makes use of a Proof Key for Code Exchange (PKCE).
+
+### 4 What is Implicit Flow with Form Post?
+Implicit Flow with Form Post flow uses OIDC to implement web sign-in that is very similar to the way SAML and WS-Federation operates. The web app requests and obtains tokens through the front channel, without the need for secrets or extra backend calls.
+
+
+### 5- What is Client Credentials Flow?
+The Client Credentials flow is a server to server flow. There is no user authentication involved in the process. In fact there is no user at all, the resulting access tokens will not contain a user, but will instead contain the Client ID as subject (if not configured otherwise).
+
+ ### 6- What is Device Authorization Flow?
+Device Authorization Flow This flow makes it possible to authenticate users without asking for their credentials. This provides a better user experience for mobile devices, where it may be more difficult to type credentials.
+
+### 4- What is Resource Owner Password Flow?
+The Resource Owner Password Credentials grant flow, aka the ROPC flow or the password flow, is an OAuth authorization flow. It allows an application to pass along a user's credentials to acquire tokens to call APIs. You can see an example of its usage in that app on GitHub:
+
+
+
+
+
+
+<br>
+
