@@ -52,6 +52,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 31-8-2022          |  class 09       |[class 09 ](./class09/class09.md )|
 | 1-9 -2022          |  class 10       |[class 10 ](./class10/class10.md) |
 | 4-9 -2022          |  class 11       |[class 11 ](./class11/class11.md) |
+| 5-9 -2022          |  class 12       |[class 12 ](./class12/class12.md) |
 
 
 
