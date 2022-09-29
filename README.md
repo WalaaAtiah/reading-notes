@@ -39,22 +39,22 @@ _This website is all about keeping track of my notes and questions from reading 
 <br> 
 
 * ## Code 301 - Intermediate Software Development
- | date              |     class number|     file link                   |
+| date              |     class number|     file link                   |
 | :---               |    :----:       |     ---                         |  
-| 21-8-2022          |   class 01      |[class 01 ](./class01/class01.md)|
-| 22-8-2022          |  class 02       |[class 02 ](./class02/class02.md)|   
-| 23-8-2022          |  class 03       |[class 03 ](./class03/class03.md) |
-| 24-8-2022          |  class 04       |[class 04 ](./class04/class04.md) |
-| 25-8-2022          |  class 05       |[class 05 ](./class05/class05.md) |
-| 28-8-2022          |  class 06       |[class 06 ](./class06/class06.md) |
-| 29-8-2022          |  class 07       |[class 07 ](./class07/class07.md) |
-| 30-8-2022          |  class 08       |[class 08 ](./class08/class08.md) |
-| 31-8-2022          |  class 09       |[class 09 ](./class09/class09.md )|
-| 1-9 -2022          |  class 10       |[class 10 ](./class10/class10.md) |
-| 4-9 -2022          |  class 11       |[class 11 ](./class11/class11.md) |
-| 5-9 -2022          |  class 12       |[class 12 ](./class12/class12.md) |
-| 6-9 -2022          |  class 13       |[class 13 ](./class13/class13.md) |
-| 7-9 -2022          |  class 15       |[class 15 ](./class15/class15.md) |
+| 21-8-2022          |   class 01      |[class 01 ](./301level/class01/class01.md)|
+| 22-8-2022          |  class 02       |[class 02 ](./301level/class02/class02.md)|   
+| 23-8-2022          |  class 03       |[class 03 ](./301level/class03/class03.md) |
+| 24-8-2022          |  class 04       |[class 04 ](./301level/class04/class04.md) |
+| 25-8-2022          |  class 05       |[class 05 ](./301level/class05/class05.md) |
+| 28-8-2022          |  class 06       |[class 06 ](./301level/class06/class06.md) |
+| 29-8-2022          |  class 07       |[class 07 ](./301level/class07/class07.md) |
+| 30-8-2022          |  class 08       |[class 08 ](./301level/class08/class08.md) |
+| 31-8-2022          |  class 09       |[class 09 ](./301level/class09/class09.md )|
+| 1-9 -2022          |  class 10       |[class 10 ](./301level/class10/class10.md) |
+| 4-9 -2022          |  class 11       |[class 11 ](./301level/class11/class11.md) |
+| 5-9 -2022          |  class 12       |[class 12 ](./301level/class12/class12.md) |
+| 6-9 -2022          |  class 13       |[class 13 ](./301level/class13/class13.md) |
+| 7-9 -2022          |  class 15       |[class 15 ](./301level/class15/class15.md) |
 
 
 
@@ -63,7 +63,9 @@ _This website is all about keeping track of my notes and questions from reading 
 <br> 
 
 * ## Code 401 - Advanced Software Development
-
+| date              |     class number|     file link                   |
+| :---               |    :----:       |     ---                         |  
+|          |   class 01      ||
 <br>
 <br> 
 
