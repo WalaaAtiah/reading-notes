@@ -61,10 +61,13 @@ _This website is all about keeping track of my notes and questions from reading 
 
 * ## Code 401 - Advanced Software Development
 
-| date              |     class number| file link                                       |
-| :---              |    :----:       |---                                              |  
-| 2-10-2022         |   class 01      |[class 01](./code-401-python/class01/class01.md) |
-|                   |                 |                                                 |
+
+| date              |     class number|     file link                   |
+| :---               |    :----:       |     ---                         |  
+| 2-10-2022          |   class 01      |[class 01](./code-401-python/class01/class01.md) |
+|                    |  class 02       |                                                 |
+
+
 
 <br>
 <br>
