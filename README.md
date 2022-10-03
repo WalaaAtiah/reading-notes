@@ -65,7 +65,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | date              |     class number|     file link                   |
 | :---               |    :----:       |     ---                         |  
 | 2-10-2022          |   class 01      |[class 01](./code-401-python/class01/class01.md) |
-|                    |  class 02       |                                                 |
+| 4-10-2022          |  class 02       |[class 02](./code-401-python/class02/class02.md)|
 
 
 
