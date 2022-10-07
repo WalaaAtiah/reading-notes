@@ -9,6 +9,7 @@
           `file = open('dog_breeds.txt')`
     2. close the file :
          * try-finally block:
+         
          ![try-finally block](./close1.png)
 
          * the with statement:The with statement automatically takes care of closing the file once it leaves the with block, even in cases of error. 
