@@ -59,7 +59,7 @@
 * exception error:This type of error occurs whenever syntactically correct Python code results in an error. ex `print( 0 / 0)`
 
 1. **Raising** : allows you to throw an exception at any time.
-   ![raising](https://files.realpython.com/media/raise.3931e8819e08.png)
+   ![raising](https://files.realpython.com/media/raise.3931e8819e08.png=100x20)
 2. **AssertionError** : enables you to verify if a certain condition is met and throw an exception if it isn’t.
    ![AssertionError ](https://files.realpython.com/media/assert.f6d344f0c0b4.png)
 
