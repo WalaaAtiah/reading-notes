@@ -13,7 +13,9 @@
          ![try-finally block](./close1.png)
 
          * the with statement:The with statement automatically takes care of closing the file once it leaves the with block, even in cases of error. 
+         
          ![the with statement:](./close2.PNG)
+
 
          * filename.close()
      
