@@ -60,7 +60,7 @@
 
 1. **Raising** : allows you to throw an exception at any time.
 
-   ![raising](https://files.realpython.com/media/raise.3931e8819e08.png )
+   <img src="https://files.realpython.com/media/raise.3931e8819e08.png" alt="drawing" style="width:400px;"/>
    
 2. **AssertionError** : enables you to verify if a certain condition is met and throw an exception if it isn’t.
 
