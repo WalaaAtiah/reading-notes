@@ -60,24 +60,24 @@
 
 1. **Raising** : allows you to throw an exception at any time.
 
-   <img src="https://files.realpython.com/media/raise.3931e8819e08.png" alt="drawing" style="width:400px;"/>
+   <img src="https://files.realpython.com/media/raise.3931e8819e08.png" alt="drawing" style="width:500px;"/>
    
 2. **AssertionError** : enables you to verify if a certain condition is met and throw an exception if it isn’t.
 
-   <img src="https://files.realpython.com/media/assert.f6d344f0c0b4.png" alt="drawing" style="width:400px;"/>
+   <img src="https://files.realpython.com/media/assert.f6d344f0c0b4.png" alt="drawing" style="width:500px;"/>
 
 
 3. **The try and except Block: Handling Exceptions** :
  * try : all statements are executed until an exception is encountered.
  * except :is used to catch and handle the exception(s) that are encountered in the try clause.
    
-   <img src="https://files.realpython.com/media/try_except.c94eabed2c59.png" alt="drawing" style="width:400px;"/>
+   <img src="https://files.realpython.com/media/try_except.c94eabed2c59.png" alt="drawing" style="width:500px;"/>
 
 4. **The else Clause** : lets you code sections that should run only when no exceptions are encountered in the try clause.
    
-   <img src="https://files.realpython.com/media/try_except_else.703aaeeb63d3.png" alt="drawing" style="width:400px;"/>
+   <img src="https://files.realpython.com/media/try_except_else.703aaeeb63d3.png" alt="drawing" style="width:500px;"/>
 
 5. **Cleaning Up After Using finally** : nables you to execute sections of code that should always run, with or without any previously encountered exceptions.
 
-   <img src="https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" alt="drawing" style="width:400px;"/>
+   <img src="https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png" alt="drawing" style="width:500px;"/>
 
