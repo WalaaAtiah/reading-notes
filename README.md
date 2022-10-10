@@ -68,7 +68,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 4-10-2022          |  class 02       |[class 02](./code-401-python/class02/class02.md)|
 | 6-10-2022          |  class 03       |[class 03](./code-401-python/class03/class03.md)|
 | 9-10-2022          |  class 04       |[class 04](./code-401-python/class04/class04.md)|
-
+| 11-10-2022         |  class 05       |[class 05](./code-401-python/class05/class05.md)|
 
 
 
