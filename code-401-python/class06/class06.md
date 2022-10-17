@@ -23,7 +23,7 @@
 ### There is 3 major types of design patterns:
 
  1. **Creational Patterns**:Some Creational Patterns:
-    * Factory Method.
+    * Factory Method.m 
     * Singleton
     * Abstract Factory
 
