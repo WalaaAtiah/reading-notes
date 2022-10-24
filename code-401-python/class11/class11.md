@@ -37,3 +37,8 @@
 `from bokeh.io import output_notebook, show`
 
 <img src="./ex3.png" alt="drawing" style="width:800px;"/>
+
+<br>
+<br>
+
+[example for bokeh ](https://www.kaggle.com/walaaatiyh/bokeh)
