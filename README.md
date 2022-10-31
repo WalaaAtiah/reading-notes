@@ -62,7 +62,7 @@ _This website is all about keeping track of my notes and questions from reading 
 * ## Code 401 - Advanced Software Development
 
 
-| date              |     class number|     file link                   |
+| date               |     class number|     file link                   |
 | :---               |    :----:       |     ---                         |  
 | 2-10-2022          |   class 01      |[class 01](./code-401-python/class01/class01.md) |
 | 4-10-2022          |  class 02       |[class 02](./code-401-python/class02/class02.md)|
@@ -77,6 +77,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 25-10-2022         |  class 11       |[class 11](./code-401-python/class11/class11.md)|
 | 27-10-2022         |  class 12       |[class 12](./code-401-python/class12/class12.md)|
 | 30-10-2022         |  class 13       |[class 13](./code-401-python/class13/class13.md)|
+| 1-11-2022          |  class 14       |[class 14](./code-401-python/class14/class14.md)|
 
 
 
