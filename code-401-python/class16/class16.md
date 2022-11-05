@@ -16,7 +16,7 @@
       The Caesar Cipher is a simple substitution cipher which replaces each original letter with a different letter in the alphabet by shifting the alphabet by a certain amount.
       To make the encrypted message above, I shifted the alphabet by 6 and used this substitution table:
 
-      <img src="/home/walaa/reading-notes/code-401-python/class16/Capture.PNG" alt="drawing" style="width:900px;"/>
+      <img src="./Capture.PNG" alt="drawing" style="width:900px;"/>
 
 
 2. **Decrypting a message**
@@ -27,8 +27,9 @@
 
     <img src="./ddd5.PNG" alt="drawing" style="width:900px;"/>
 
+    <br>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/1920px-Caesar_cipher_left_shift_of_3.svg.png" alt="drawing" style="width:900px;"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/1920px-Caesar_cipher_left_shift_of_3.svg.png" alt="drawing" style="width:500px;"/>
 
 3. **Cracking the cipher**
 
@@ -43,7 +44,7 @@
 
 ### enigma rotor:
 
-<img src="https://hackaday.com/wp-content/uploads/2017/08/enigma.jpg?w=800" alt="drawing" style="width:900px;"/>
+<img src="https://hackaday.com/wp-content/uploads/2017/08/enigma.jpg?w=800" alt="drawing" style="width:500px;"/>
 
 
-<img src="/home/walaa/reading-notes/code-401-python/class16/ttttttt.PNG" alt="drawing" style="width:900px;"/>
+<img src="./ttttttt.PNG" alt="drawing" style="width:500px;"/>
