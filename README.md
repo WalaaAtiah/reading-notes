@@ -81,6 +81,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 3-11-2022          |  class 15       |[class 15](./code-401-python/class15/class15.md)|
 | 6-11-2022          |  class 16       |[class 16](./code-401-python/class16/class16.md)|
 | 8-11-2022          |  class 17       |[class 17](./code-401-python/class17/class17.md)|
+| 26-11-2022         |  class 19       |[class 19](./code-401-python/class19/class19.md)|
 
 
 
