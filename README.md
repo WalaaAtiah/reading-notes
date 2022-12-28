@@ -92,7 +92,7 @@ _This website is all about keeping track of my notes and questions from reading 
 | 18-12-2022         |  class 28       |[class 28](./code-401-python/class28/class28.md)|
 | 19-12-2022         |  class 29       |[class 29](./code-401-python/class29/class29.md)|
 | 26-12-2022         |  class 31       |[class 31](./code-401-python/class31/class31.md)|
-
+| 30-12-2022         |  class 32       |[class 32](./code-401-python/class32/class32.md)|
 
 <br>
 <br>
