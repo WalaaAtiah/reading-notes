@@ -95,6 +95,8 @@ _This website is all about keeping track of my notes and questions from reading 
 | 30-12-2022         |  class 32       |[class 32](./code-401-python/class32/class32.md)|
 | 3-1-2023           |  class 33       |[class 33](./code-401-python/class33/class33.md)|
 | 5-1-2023           |  class 34       |[class 34](./code-401-python/class34/class34.md)|
+| 8-1-2023           |  class 35       |[class 35](./code-401-python/class35/class35.md)|
+| 10-1-2023          |  class 36       |[class 36](./code-401-python/class36/class36.md)|
 
 <br>
 <br>
